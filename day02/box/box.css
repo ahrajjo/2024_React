@@ -1,0 +1,21 @@
+.redbox {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+}
+.likecolor {
+  background-color: #a3b18a;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+}
+.secondlikecolor {
+  background-color: #e3d5ca;
+  width: 300px;
+  height: 300px;
+}
+.yellobox {
+  background-color: yellow;
+  width: 70%;
+  height: 100px;
+}

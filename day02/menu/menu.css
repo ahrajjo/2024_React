@@ -1,0 +1,16 @@
+.menu {
+  background-color: black;
+  color: white;
+  padding: 13px 0px 13px 10px;
+  margin-bottom: 2px;
+  width: 200px;
+  font-weight: 100;
+}
+
+.menu:hover {
+  background-color: white;
+  color: black;
+  font-weight: 100;
+  cursor: pointer;
+  border: 1px solid #e6e6e6;
+}
