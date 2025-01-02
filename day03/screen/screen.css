@@ -1,0 +1,14 @@
+div {
+  height: 100vh;
+}
+
+.box {
+  background-color: skyblue;
+}
+
+.box2 {
+  background-color: orange;
+}
+.box3 {
+  background-color: yellow;
+}

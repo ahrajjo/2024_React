@@ -1,0 +1,17 @@
+.card {
+  width: 200px;
+  height: 250px;
+}
+
+.card img {
+  width: 100%;
+  height: 90%;
+  border-radius: 15px;
+  object-fit: cover;
+}
+
+.seoul,
+.jeju {
+  font-weight: 700;
+  padding: 10px;
+}

@@ -1,0 +1,36 @@
+.btn {
+  color: white;
+  border: none;
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
+
+.blue {
+  background-color: #3f37c9;
+}
+
+.green {
+  background-color: #49a078;
+}
+
+.pink {
+  background-color: #f49cbb;
+}
+
+.square {
+  border-radius: 5px;
+}
+
+.pill {
+  border-radius: 25px;
+}
+
+.p-1 {
+  padding: 10px;
+}
+.p-2 {
+  padding: 12px 35px;
+}
+.p-3 {
+  padding: 12px 70px;
+}
