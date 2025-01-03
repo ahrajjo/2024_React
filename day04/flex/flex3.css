@@ -1,0 +1,83 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.box {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.mini {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: end;
+}
+
+.c1 {
+  background-color: aliceblue;
+}
+.c2 {
+  background-color: antiquewhite;
+}
+.c3 {
+  background-color: aqua;
+}
+.c4 {
+  background-color: aquamarine;
+}
+.c5 {
+  background-color: azure;
+}
+.c6 {
+  background-color: beige;
+}
+.c7 {
+  background-color: bisque;
+}
+.c8 {
+  background-color: black;
+}
+.c9 {
+  background-color: blanchedalmond;
+}
+.c10 {
+  background-color: blue;
+}
+.c11 {
+  background-color: blueviolet;
+}
+.c12 {
+  background-color: brown;
+}
+.c13 {
+  background-color: burlywood;
+}
+.c14 {
+  background-color: cadetblue;
+}
+.c15 {
+  background-color: chartreuse;
+}
+.c16 {
+  background-color: chocolate;
+}
+
+.c17 {
+  background-color: coral;
+}
+.c18 {
+  background-color: cornflowerblue;
+}
+.c19 {
+  background-color: darkolivegreen;
+}
+.c20 {
+  background-color: darkgrey;
+}

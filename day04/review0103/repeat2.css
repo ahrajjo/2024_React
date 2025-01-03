@@ -1,0 +1,58 @@
+.card1 {
+  width: 180px;
+  height: 215px;
+  border-radius: 10px;
+}
+
+.card1 > img {
+  width: 100%;
+  height: 80%;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+.busan {
+  font-weight: 700;
+  font-size: 0.8em;
+  padding: 7px;
+}
+
+.card2 {
+  width: 250px;
+  height: 310px;
+  background-color: #f6f0f0;
+  border-radius: 10px;
+}
+
+.card2 > img {
+  width: 100%;
+  height: 70%;
+  border-radius: 10px 10px 0px 0px;
+  object-fit: cover;
+}
+
+.info {
+  padding: 15px;
+  text-align: center;
+}
+
+.name {
+  font-size: 16px;
+  font-weight: 900;
+  margin-bottom: 15px;
+}
+
+.price {
+  font-weight: 700;
+  font-size: 0.9em;
+}
+
+.size {
+  background-color: #fee600;
+  border: none;
+  padding: 2px 5px 2px 5px;
+  border-radius: 50%;
+  font-size: 10px;
+  font-weight: 600;
+  text-align: center;
+}

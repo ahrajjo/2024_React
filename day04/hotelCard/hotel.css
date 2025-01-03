@@ -1,0 +1,57 @@
+* {
+  font-family: "Noto Serif KR", serif;
+  font-style: normal;
+}
+
+.container {
+  width: 100%;
+  height: 750px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+
+.size {
+  width: 22%;
+  height: 370px;
+  background-size: cover;
+  border-radius: 10px;
+  padding: 30px 20px;
+  color: white;
+  font-weight: 700;
+}
+
+.small {
+  font-size: 0.8em;
+  line-height: 50px;
+}
+
+.font {
+  font-size: 1.3em;
+  line-height: 35px;
+}
+
+.underline {
+  text-decoration: underline;
+  text-underline-offset: 5px;
+  font-size: 0.7em;
+  line-height: 55px;
+}
+
+.card1 {
+  background-image: url("bed.jpg");
+}
+
+.card2 {
+  background-image: url("bedroom.jpg");
+}
+
+.card3 {
+  background-image: url("lobby.jpg");
+}
+
+.card4 {
+  background-image: url("restaurant.jpg");
+}

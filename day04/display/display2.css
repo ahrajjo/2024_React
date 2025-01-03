@@ -1,0 +1,20 @@
+.menu {
+  width: 100%;
+  height: 100px;
+  text-align: center;
+}
+
+.menu img {
+  width: 80px;
+  height: 80px;
+  border-radius: 9999px;
+  margin-bottom: 10px;
+  object-fit: cover;
+}
+
+.detail {
+  font-size: 0.5em;
+  font-weight: 700;
+  display: inline-block;
+  padding: 15px;
+}
